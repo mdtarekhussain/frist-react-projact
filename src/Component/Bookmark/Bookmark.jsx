@@ -14,5 +14,6 @@ Bookmark.propTypes = {
   bookmark: PropTypes.shape({
     name: PropTypes.string.isRequired, // Ensure 'name' is a required string
   }).isRequired,
+  idx: PropTypes.number.isRequired,
 };
 export default Bookmark;

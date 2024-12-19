@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "cover": "img/1.jpeg",
+    "name": "Introduction to C Programming",
+    "title": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "author": "Alice Johnson",
+    "posted-date": "2024-12-01",
+    "reding": 2,
+    "price": 1000
+  },
+  {
+    "id": 2,
+    "cover": "img/2.jpeg",
+    "name": "Introduction to Algorithms",
+    "title": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "author": "Dr. Mark Smith",
+    "posted-date": "2024-12-03",
+    "reding": 4,
+    "price": 1999
+  },
+  {
+    "id": 3,
+    "cover": "img/3.jpeg",
+    "name": "Introduction to C++ for DSA",
+    "title": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "author": "Samantha Brown",
+    "posted-date": "2024-12-05",
+    "reding": 7,
+    "price": 2999
+  },
+  {
+    "id": 4,
+    "cover": "img/4.jpeg",
+    "name": "Basic Data Structures",
+    "title": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "author": "John Doe",
+    "posted-date": "2024-12-07",
+    "reding": 5,
+    "price": 1944
+  },
+  {
+    "id": 5,
+    "cover": "img/5.jpeg",
+    "name": "Introduction to OOP Python",
+    "title": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "author": "Dr. Emily Carter",
+    "posted-date": "2024-12-09",
+    "reding": 2,
+    "price": 2012
+  },
+  {
+    "id": 6,
+    "cover": "img/6.jpeg",
+    "name": "Software Engineering",
+    "title": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "author": "Chris Evans",
+    "posted-date": "2024-12-11",
+    "reding": 6,
+    "price": 1212
+  },
+  {
+    "id": 7,
+    "cover": "img/7.jpeg",
+    "name": "AWS, Cloud Computing",
+    "title": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "author": "Sophia Lee",
+    "posted-date": "2024-12-13",
+    "reding": 4,
+    "price": 3211
+  },
+  {
+    "id": 8,
+    "cover": "img/8.jpeg",
+    "name": "Database (MySQL)",
+    "title": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "author": "Dr. Brian Cox",
+    "posted-date": "2024-12-15",
+    "reding": 9,
+    "price": 2111
+  },
+  {
+    "id": 9,
+    "cover": "img/9.png",
+    "name": "Problem-Solving Part",
+    "title": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "author": "Jane Miller",
+    "posted-date": "2024-12-17",
+    "reding": 5,
+    "price": 1000
+  },
+  {
+    "id": 10,
+    "cover": "img/10.png",
+    "name": "Database (MySQL)",
+    "title": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "author": "Michael Brown",
+    "posted-date": "2024-12-19",
+    "reding": 7,
+    "price": 999
+  }
+]

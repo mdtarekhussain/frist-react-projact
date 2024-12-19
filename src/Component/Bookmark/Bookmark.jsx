@@ -1,9 +1,12 @@
 import PropTypes from "prop-types";
-const Bookmark = ({ bookmark }) => {
+const Bookmark = ({ bookmark, idx }) => {
   const { name } = bookmark;
+
   return (
     <div>
-      <h3 className="text-[17px]">{name}</h3>
+      <h3 className="text-[17px]">
+        {idx + 1} {name}
+      </h3>
     </div>
   );
 };

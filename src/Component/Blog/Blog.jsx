@@ -7,9 +7,12 @@ const Blog = ({ blog, handleBookmark, handlePrice, handleRead }) => {
       <img className="rounded-[15px] h-[150px] w-full" src={cover} alt="" />
       <h2 className="mt-[4px] text-[16px] font-[500] ">{name}</h2>
       <h2 className="text-[14px] mt-[4px] font-[400]">Title : {title}</h2>
-      <div className="flex gap-[10px] mt-[6px]  text-center">
+      <div className="flex gap-[7px] mt-[6px] justify-center  text-center">
         <p className="text-[17px] font-[500]">$ Price : {price} </p>
-        <button onClick={() => handleBookmark(blog, reding)} className="">
+        <button
+          onClick={() => handleBookmark(blog, reding)}
+          className="text-yellow-700"
+        >
           <MdOutlineBookmarks />
         </button>
 

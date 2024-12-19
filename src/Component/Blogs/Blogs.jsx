@@ -12,8 +12,8 @@ const Blogs = ({ handleBookmark, handlePrice, handleRead }) => {
   }, []); // Runs once on component mount
 
   return (
-    <div className="md:w-2/3">
-      <div className="grid grid-cols-3 gap-3 ">
+    <div className="md:w-2/3  ">
+      <div className="grid lg:grid-cols-3 sm:grid-cols-1  sm:px-[30px] px-4  gap-3 ">
         {blogs.map((blog) => (
           <Blog
             key={blog.id}
